@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wvihs5.hartawin-pro.online/sitemap.xml
